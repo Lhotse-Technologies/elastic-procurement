@@ -1,0 +1,10 @@
+{
+  "name": "elastic-procurement",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "faker": "^5.3.1"
+  }
+}
